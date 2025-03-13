@@ -5,5 +5,6 @@ public class Demo1{
         System.out.println(30>=56);
         System.out.println(40<=7);
         System.out.println(19!=9);
+        System.out.println(10==10);
     }
 }
