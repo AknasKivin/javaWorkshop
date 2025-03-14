@@ -16,7 +16,5 @@ public class Demo{
             System.out.println("Enter the value:"+a[i]);
             i=i+1;
         }
-        
-
     }
 }
