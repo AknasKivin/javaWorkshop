@@ -12,8 +12,9 @@ public class Demo{
             i=i+1;
 
         }
+        i=0;
         while(i<n){
-            System.out.println("Enter the value:"+a[i]);
+            System.out.println("Entered value:"+a[i]);
             i=i+1;
         }
     }
